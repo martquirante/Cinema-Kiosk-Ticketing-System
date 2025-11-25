@@ -7,8 +7,8 @@ Compalition of our project in OOP 2nd year, 1st of Studying of BSIT
 Develop by: Raymart Quirante
 
 Also my group members:
-Edgar Guimayen
-Mark James Malayas
+Edgar Guimayen,
+Mark James Malayas, &
 John Viel Padayao
 
 ## 🚀 Project Overview
